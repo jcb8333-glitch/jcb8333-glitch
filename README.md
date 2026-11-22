@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=python,c++react,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c++,react,&perline=3)](https://skillicons.dev)
 
 
 <!--
