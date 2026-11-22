@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![My Skills](https://skillicons.dev/icons?i=python,c++react,&perline=3)](https://skillicons.dev)
 
 
 <!--
