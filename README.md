@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![Python](https://shields.io)
-![C++](https://shields.io)
-![React](https://shields.io)
+![Python](img.shields.io/badge/)
+![C++](img.shields.io/badge/)
+![React](img.shields.io/badge/)
 
 
 <!--
