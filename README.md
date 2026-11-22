@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Python](https://shields.io)
+![C++](https://shields.io)
+![FastAPI](https://shields.io)
+
 <!--
 **jcb8333-glitch/jcb8333-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
